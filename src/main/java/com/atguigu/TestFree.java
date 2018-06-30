@@ -10,5 +10,10 @@ public class TestFree {
 		System.out.println("哈哈哈，我来自dev分支，请求合并到master分支");
 		System.out.println("哈哈哈，我来自dev分支，请求合并到master分支");
 		System.out.println("哈哈哈，我来自dev分支，请求合并到master分支");
+		System.out.println("这次修改来自于etc分支。。。。。");
+		System.out.println("这次修改来自于etc分支。。。。。");
+		System.out.println("这次修改来自于etc分支。。。。。");
+		System.out.println("这次修改来自于etc分支。。。。。");
+		System.out.println("这次修改来自于etc分支。。。。。");
 	}
 }
